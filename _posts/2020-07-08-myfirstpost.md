@@ -2,5 +2,6 @@
 
 This blog is my experience through my first pregnancy.  
 
-![Tidepool](images/tidepool_january_2019.jpg)
+![](images/tidepool_january_2019.jpg)
 
+![](/images/logo.png "fast.ai's logo")
