@@ -1,6 +1,8 @@
 # Before Pregnancy Preparation 
 
-Currently, I am using an insulin pump and CGM (670G with the Guardian sensor 3 from Medtronic), so if you take multiple daily shots many of my advices may not to be relevant to you. The first step toward planning a successful pregnancy is to get your sugar under control and hit the appropriate targets. My A1c was always fluctuating. In fact, my diagnosis a month before I decided I wanted to have kids was uncontrolled type 1 diabetes with an A1c value of 7.7%.
+## Adjusting the pump settings
+Currently, I am using an insulin pump and CGM (670G with the Guardian sensor 3 from Medtronic), so if you take multiple daily shots, my advice may not to be relevant to you. The first step toward planning a successful pregnancy is to get your sugar under control and hit the appropriate targets. My A1c was always fluctuating. In fact, my diagnosis a month before I decided I wanted to have kids was uncontrolled type 1 diabetes with an A1c value of 7.7%.
+
 According to the American Diabetes Association (ADA), targets for optimal glucose control are:
 
 -	Fasting glucose: < 95 mg/dL 
@@ -14,5 +16,4 @@ My glucose levels in January, before even thinking about having a baby, had a ve
 
 ![](/images/tidepool_january_2019.jpg "Januray Glucose Data")
 
-This graph shows how off I was from the desirable targets, and how the estimated A1c was 7.7% which was accurate. My last A1c was back in November 2019, and it was exactly 7.7%. 
-Since I was always running high and Auto Mode is not optimal for pregnancy targets, I decided to check if my basal rate and insulin to carb ratio were correct. I did some minor changes to my basal rate by observing the behavior of my glucose after two hours of every meal and overnight. In my case, the basal was right since I did not have hypoglycemia or hyperglycemia due to the basal rate.        
+This graph shows how off I was from the desirable targets, and how the estimated A1c was 7.7% which was accurate. My last A1c was back in November 2019, and it was exactly 7.7%. Having a visualization of my numbers made me realized how bad I was doing in the past few months. In my opinion, this is the first step towards lowering your A1c, awareness.        
