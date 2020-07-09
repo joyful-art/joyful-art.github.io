@@ -3,7 +3,7 @@
 ## Adjusting the pump settings
 Currently, I am using an insulin pump and CGM (670G with the Guardian sensor 3 from Medtronic), so if you take multiple daily shots, my advice may not to be relevant to you. The first step toward planning a successful pregnancy is to get your sugar under control and hit the appropriate targets. My HbA1c was always fluctuating. In fact, my diagnosis a month before I decided I wanted to have kids was uncontrolled type 1 diabetes with an HbA1c value of 7.7%.
 
-According to the American Diabetes Association (ADA), targets for optimal glucose control are:
+According to the American Diabetes Association (ADA) [^1], targets for optimal glucose control are:
 
 -	Fasting glucose: < 95 mg/dL 
 -	1-hour postprandial glucose: < 140 mg/dL
@@ -17,3 +17,7 @@ My glucose levels in January, before even thinking about having a baby, had a ve
 ![](/images/tidepool_january_2019.jpg "Januray Glucose Data")
 
 This graph shows how off I was from the desirable targets, and how the estimated HbA1c was 7.7% which was accurate. My last HbA1c was back in November 2019, and it was exactly 7.7%. Having a visualization of my numbers made me realized how bad I was doing in the past few months. In my opinion, this is the first step towards lowering your HbA1c, awareness.        
+
+## Footnotes
+
+[^1]: [14. Management of Diabetes in Pregnancy: Standards of Medical Care in Diabetes—2020](https://care.diabetesjournals.org/content/43/Supplement_1/S183).
