@@ -1,6 +1,6 @@
 # Before Pregnancy Preparation 
 
-## Adjusting the pump settings
+## Using your CGM data to get started
 Currently, I am using an insulin pump and CGM (670G with the Guardian sensor 3 from Medtronic), so if you take multiple daily shots, my advice may not to be relevant to you. The first step toward planning a successful pregnancy is to get your sugar under control and hit the appropriate targets. My HbA1c was always fluctuating. In fact, my diagnosis a month before I decided I wanted to have kids was uncontrolled type 1 diabetes with an HbA1c value of 7.7%.
 
 According to the American Diabetes Association (ADA) [^1], targets for optimal glucose control are:
