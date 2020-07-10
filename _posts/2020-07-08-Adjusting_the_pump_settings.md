@@ -14,7 +14,7 @@ To achieve these targets, many topics need to be addressed, but the most importa
 
 My glucose levels in January, before even thinking about having a baby, had a very clear pattern: I was high pretty much the whole day. I only manage to be on target 27% of the time. Out of the 24 hours of the day that means I was on target for about 6 hours a day. These 6 hours “on target” were during the night, and they were not really on target; I was running on the 130s which is not really our target when fasting glucose should be less than 96 mg/dL. Additionally, my average glucose was 182 mg/dL with a standard deviation of 56 mg/dL. Another point to consider is that I was using Auto Mode 100% of the time. The 670G insulin pump target for Auto Mode is 120 mg/dL which is not ideal if you want to have tighter control. Let me show you my data for that month which I exported using Tidepool. 
 
-![](/images/tidepool_january_2019.jpg "Januray Glucose Data")
+![](/images/tidepool_january_2019.jpg "January Glucose Data")
 
 This graph shows how off I was from the desirable targets, and how the estimated HbA1c was 7.7% which was accurate. My last HbA1c was back in November 2019, and it was exactly 7.7%. Having a visualization of my numbers made me realized how bad I was doing in the past few months. In my opinion, this is the first step towards lowering your HbA1c, awareness.        
 
